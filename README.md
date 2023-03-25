@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🖐HI THERE!
+# 🖐 HI THERE!
 ![header](https://capsule-render.vercel.app/api?&color=404040&type=Waving&text=🖥️QUAM⌨️&animation=fadeIn&fontColor=FFFFFF&height=200)
 
 <!--
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
 
 = My introduce 🧑‍🎓 =-->
-## ♣ QUAM-12 / README.md ♣
+## ♣ QUAM-12 ♣
 <img src="https://img.shields.io/badge/Mac OS-999999?style=flat&logo=Apple&logoColor=white"/> [![Come Here](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C3DE8&title_bg=%235B5D5B&icon=ghostery.svg&icon_color=%239452F2&title=Come&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
