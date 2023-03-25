@@ -16,14 +16,17 @@ Here are some ideas to get you started:
 # 🖐 HI THERE!
 ![header](https://capsule-render.vercel.app/api?&color=404040&type=Waving&text=🖥️QUAM⌨️&animation=fadeIn&fontColor=FFFFFF&height=200)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=>Minecraft+is+Development+Tools)](https://git.io/typing-svg)
+
 <!--
 **quam/Minecraft** is a 🔆_special_🔆 repository because its `README.md` (this file) appears on your GitHub Profile.
 
 Here are some ideas to get you started:
 
 = My introduce 🧑‍🎓 =-->
-## ♣ QUAM-12 ♣
+## ♣ QUAM-12
 <img src="https://img.shields.io/badge/Mac OS-999999?style=flat&logo=Apple&logoColor=white"/> [![Come Here](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C3DE8&title_bg=%235B5D5B&icon=ghostery.svg&icon_color=%239452F2&title=Come&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/badge/Republic Of Korea 🇰🇷-528DD7?style=flat&logo=Font Awesome&logoColor=white"/>
 
 
 ## 🙏 Communication
@@ -38,14 +41,14 @@ Here are some ideas to get you started:
 👋 hello! I am **QUAM** who **likes Minecraft** and **command/datapack development**.   
 It is about **10 years** since I started Minecraft, including the BedRock version, and about **6 years** for the JAVA version.
 
-## 🗂️ Projects↩
+## 🗂️ Projects
 
 `키보드 데이터팩⌨` | `여러 명령어 / 데이터팩 강좌들🪧` | `콜라츠 추측 그래프📊` | `콘웨이의 생존 게임👾`...
 
 ## 🛠️ Skills
 Languages
 
-<img src="https://img.shields.io/badge/Minecraft Commands-00C300?style=flat&logo=Minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-yellow?style=flat&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/mcfunction-FD3456?style=flat&logo=Azure Functions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Minecraft Commands-00C300?style=flat&logo=Minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-yellow?style=flat&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/mcfunction-FD3456?style=flat&logo=Azure Functions&logoColor=white"/> 
 
 ## ⚙️ Development Tools
 Tools
