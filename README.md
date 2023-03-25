@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # 🖐 HI THERE!
 ![header](https://capsule-render.vercel.app/api?&color=404040&type=Waving&text=🖥️QUAM⌨️&animation=fadeIn&fontColor=FFFFFF&height=200)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=QUAM-12&theme=github-dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=>Minecraft+is+Development+Tools)](https://git.io/typing-svg)
 
 <!--
@@ -56,7 +58,12 @@ Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat&logo=Sublime Text&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 
 ## 🔖 ETC.
+**🏷️ Rank**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QUAM-12&show_icons=true&theme=midnight-purple)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+**📅 Time**
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QUAM-12&theme=react-dark
+)](https://github.com/QUAM-12/github-readme-activity-graph)
