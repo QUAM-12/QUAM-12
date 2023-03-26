@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## 🙏 Communication
-<img src="https://img.shields.io/badge/YouTube [QUAM퀌]-FF0000?style=flat&logo=YouTube&logoColor=white"/> <img src="https://img.shields.io/badge/Discord [QUAM퀌5895]-5865F2?style=flat&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/kimnamutomak@gmail.com-critical?style=flat&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/https://github.com/QUAM--12-181717?style=flat&logo=GitHub&logoColor=white"/>
+<a href="https://www.youtube.com/channel/UCtAqG6OE5IbcuQHTtI48IWg"><img src="https://img.shields.io/badge/YouTube [QUAM퀌]-FF0000?style=flat&logo=YouTube&logoColor=white"/> <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord [QUAM퀌5895]-5865F2?style=flat&logo=Discord&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/kimnamutomak@gmail.com-critical?style=flat&logo=Gmail&logoColor=white"/> <a href="https://github.com/QUAM-12"><img src="https://img.shields.io/badge/https://github.com/QUAM--12-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 
 ## 🧐 My introduce
@@ -45,12 +45,12 @@ It is about **10 years** since I started Minecraft, including the BedRock versio
 
 ## 🗂️ Projects
 
-`키보드 데이터팩⌨` | `여러 명령어 / 데이터팩 강좌들🪧` | `콜라츠 추측 그래프📊` | `콘웨이의 생존 게임👾`...
+**`키보드 데이터팩⌨`** / **`여러 명령어 / 데이터팩 강좌들🪧`** / **`콜라츠 추측 그래프📊`** / **`콘웨이의 생존 게임👾`**...
 
 ## 🛠️ Skills
 Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Minecraft Commands-00C300?style=flat&logo=Minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-yellow?style=flat&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/mcfunction-FD3456?style=flat&logo=Azure Functions&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Minecraft Commands-00C300?style=flat&logo=Minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-yellow?style=flat&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/mcfunction-FD3456?style=flat&logo=Minecraft&logoColor=white"/> 
 
 ## ⚙️ Development Tools
 Tools
