@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 = My introduce 🧑‍🎓 =-->
 ## ♣ QUAM-12
-<img src="https://img.shields.io/badge/Mac OS-999999?style=flat&logo=Apple&logoColor=white"/> [![Come Here](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C3DE8&title_bg=%235B5D5B&icon=ghostery.svg&icon_color=%239452F2&title=Come&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://img.shields.io/badge/Republic Of Korea 🇰🇷-528DD7?style=flat&logo=Font Awesome&logoColor=white"/>
+<a href="https://ko.wikipedia.org/wiki/MacOS"><img src="https://img.shields.io/badge/Mac OS-999999?style=flat&logo=Apple&logoColor=white"/> [![Come Here](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%239C3DE8&title_bg=%235B5D5B&icon=ghostery.svg&icon_color=%239452F2&title=Come&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD"><img src="https://img.shields.io/badge/Republic Of Korea 🇰🇷-528DD7?style=flat&logo=Font Awesome&logoColor=white"/>
 
 
 ## 🙏 Communication
