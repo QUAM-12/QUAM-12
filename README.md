@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ## 🙏 Communication
-<a href="https://www.youtube.com/channel/UCtAqG6OE5IbcuQHTtI48IWg"><img src="https://img.shields.io/badge/YouTube [QUAM퀌]-FF0000?style=flat&logo=YouTube&logoColor=white"/> <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord [QUAM퀌5895]-5865F2?style=flat&logo=Discord&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/kimnamutomak@gmail.com-critical?style=flat&logo=Gmail&logoColor=white"/> <a href="https://github.com/QUAM-12"><img src="https://img.shields.io/badge/https://github.com/QUAM--12-181717?style=flat&logo=GitHub&logoColor=white"/>
+<a href="https://www.youtube.com/channel/UCtAqG6OE5IbcuQHTtI48IWg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord [QUAM퀌5895]-5865F2?style=flat&logo=Discord&logoColor=white"/> <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/kimnamutomak@gmail.com-critical?style=flat&logo=Gmail&logoColor=white"/> <a href="https://github.com/QUAM-12"><img src="https://img.shields.io/badge/https://github.com/QUAM--12-181717?style=flat&logo=GitHub&logoColor=white"/>
 
 
 ## 🧐 My introduce
