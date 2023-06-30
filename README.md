@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 👋 안녕하세요! **마인크래프트를 좋아**하고 **명령어 / 데이터팩 개발**을 하는 **QUAM**입니다.   
 마인크래프트를 시작한지는 BedRock버전까지 합한다면 약 **10년**이고, JAVA버전은 약 **6년**입니다.
 
-👋 hello! I am **QUAM** who **likes Minecraft** and **command/datapack development**.   
+👋 hello! I am **QUAM**, who **likes Minecraft** and **command/datapack development**.   
 It is about **10 years** since I started Minecraft, including the BedRock version, and about **6 years** for the JAVA version.
 
 ## 🗂️ Projects
