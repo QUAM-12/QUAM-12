@@ -59,8 +59,3 @@ Tools
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QUAM-12&show_icons=true&theme=midnight-purple)
 
-
-**📅 Time**
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=QUAM-12&theme=react-dark
-)](https://github.com/QUAM-12/github-readme-activity-graph)
