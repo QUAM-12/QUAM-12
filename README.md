@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 🖐 HI THERE!
 ![header](https://capsule-render.vercel.app/api?&color=404040&type=Waving&text=🖥️QUAM⌨️&animation=fadeIn&fontColor=FFFFFF&height=200)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=QUAM-12&theme=github-dark&locale=ko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=QUAM-12&theme=tokyonight&locale=ko&date_format=%5BY%20%5DM%20j&dates=70EBB4)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=>Minecraft+is+Development+Tools)](https://git.io/typing-svg)
 
