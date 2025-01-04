@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## 🧐 My introduce
 
 👋 안녕하세요! **마인크래프트를 좋아**하고 **명령어 / 데이터팩 개발**을 하는 **QUAM**입니다.   
-마인크래프트를 시작한지는 BedRock버전까지 합한다면 약 **10년**이고, JAVA버전은 약 **6년**입니다.
+마인크래프트를 시작한지는 BedRock버전까지 합한다면 약 **10년**이고, JAVA버전은 약 **7년**입니다.
 
 ## 🗂️ Projects
 
